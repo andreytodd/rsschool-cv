@@ -22,7 +22,7 @@
 /* Header + navbar */
 
 .header-profile {
-    background-image: url(/images/CV-BG.jpeg);
+    background-image: url(./images/CV-BG.jpeg);
     background-size: cover;
     display: flex;
     flex-direction: column;
